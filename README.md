@@ -1,17 +1,7 @@
-# Getting Started App
-## Available Scripts
+# Sobre o Sistema :space_invader:
 
-In the project directory, you can run:
+Já precisou buscar uma informação de um CEP ?
+<br>
+Se sim esse app feito com React Js faz exatamente isso, basta digitar o cep e o app irá lhe mostrar as informações desse CEP
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
